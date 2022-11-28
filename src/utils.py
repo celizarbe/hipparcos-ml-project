@@ -30,12 +30,3 @@ def get_base_spectral_type(full_spectral_type):
   if len(numbers) >= 1:
     base_type = base_type + '{}'.format(numbers[0])
   return base_type
-#
-#
-#
-# Split features by missing values percentage
-# ===========================================
-def split_by_missing(missing_values : pd.DataFrame, percent):
-  missing_50pc_or_more = missing_values[missing_values[percent] >= 50]
-  missing_less_than_50pc = missing_values[missing_values[percent] < 50]
-  return missing_50pc_or_more, missing_less_than_50pc

@@ -13,7 +13,7 @@ Importantly, for simplicity's sake, this project **will not** explore astronomic
 ## Introduction
 This project utilizes data from the Hipparcos Catalogue, published by the the European Space Agency (ESA) in 1997.
 
-The Hipparcos astrometry mission had the primary objective of determining accurate astrometric data - positions, annual proper motions and absolute trigonometric parallaxes - with the Hipparcos satellite, which was launched on 8 August 1989 and operated between November 1989 and March 1993. The mission produced two major astrometric catalogues, the Hipparcos Catalogue (of 118 218 stars) and the Tycho Catalogue (of more than one million stars) as a result.
+The Hipparcos astrometry mission had the primary objective of determining accurate astrometric data - positions, annual proper motions and absolute trigonometric parallaxes - with the Hipparcos satellite, which was launched on 8 August 1989 and operated between November 1989 and March 1993. The mission produced two major astrometric catalogues, the Hipparcos Catalogue (of 118 218 stars) and the Tycho Catalogue (of more than one million stars), as a result.
 
 Further information on both Catalogues can be found in ESA's [dedicated page](https://www.cosmos.esa.int/web/hipparcos/catalogues).
 
